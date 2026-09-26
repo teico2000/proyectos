@@ -4,7 +4,9 @@
 Pendiente de describir con el dueño del proyecto. No asumir funcionalidades sin revisar el código local o confirmar con el usuario.
 
 ## Ubicación del código
-El código vive en la PC del usuario, fuera de este repositorio. Pedir/usar la carpeta local de Bot en Codex cuando haya que editarlo.
+`C:\Users\matte\Desktop\Bot`
+
+Este repositorio central solo guarda contexto; el código fuente queda en la carpeta local.
 
 ## Referencias conocidas
 - Repositorio GitHub: https://github.com/teico2000/bot
@@ -13,8 +15,7 @@ El código vive en la PC del usuario, fuera de este repositorio. Pedir/usar la c
 Pendiente de inspeccionar el repositorio y la carpeta local. No asumir Vercel ni Neon hasta verificar que corresponden a este proyecto.
 
 ## Pendiente de completar
-- Qué hace el bot, plataforma(s) y usuarios.
-- Ruta de la carpeta local en la PC.
+- Propósito, plataforma(s) y usuarios del bot.
 - Stack, comandos de desarrollo y pruebas.
 - Hosting, integraciones y almacenamiento.
 - Funcionalidades prioritarias y decisiones vigentes.
